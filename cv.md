@@ -5,6 +5,8 @@
 - Телефон: 8 (905) 383-38-75
 - @email: shpilkoilya@icloud.com
 - github: https://github.com/IlyaShpilko
+- vk: https://vk.com/id120840725
+- telegram: https://t.me/IlyaDark20
 
 ### 2. Желаемая должность и зарплата:
 - Должность: Junior iOS Developer
